@@ -1,0 +1,50 @@
+* {
+    font-family: Garamond;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    display: flex;
+}
+
+#prawy {
+    background-color: #686468;
+    width: 89%;
+    display: flex;
+    flex-direction: column;
+}
+
+#prawy1 {
+    background-color: #696b67;
+    font-size: 140%;
+}
+
+#prawy2 {
+    background-color: darkgrey;
+    height: 420px;
+}
+
+#lewy {
+    background-color: rgb(89, 91, 92);
+    display: flex;
+    flex-direction: column;
+    width: 32%;
+}
+
+#lewy1,
+#lewy2 {
+    background-color: #535153;
+    color: #0febe0;
+    height: 420px;
+}
+
+#xddd {
+    background-color: #353634;
+    color: white;
+    padding: 150px;
+}
+
